@@ -50,8 +50,8 @@ The architecture reflects common technologies and responsibilities encountered b
 | **20** | Finance | `192.168.20.0/24` | `192.168.20.1` |
 | **30** | IT | `192.168.30.0/24` | `192.168.30.1` |
 |**40**|PRINTERS|`192.168.40.0/24`| `192.168.40.1` |
-| **50** | Server VLAN | `192.168.50.0/24` | `192.168.50.1` |
-| **99** | Management | `192.168.99.0/24` | `192.168.99.1` |
+| **50** | SERVERS | `192.168.50.0/24` | `192.168.50.1` |
+| **99** | MANAGEMENT | `192.168.99.0/24` | `192.168.99.1` |
 
 ### WAN & Management Addressing
 
